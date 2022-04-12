@@ -1,2 +1,3 @@
 tkcalendar~=1.6.1
 numpy~=1.21.2
+speedtest~=0.0.1
